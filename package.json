@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharun123-nani/angularjs-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharun123-nani/angularjs-chat-app/issues"
+  },
+  "homepage": "https://github.com/Tharun123-nani/angularjs-chat-app#readme",
+  "description": "",
+  "dependencies": {
+    "angular": "^1.8.3",
+    "firebase": "^11.3.1"
+  }
+}
